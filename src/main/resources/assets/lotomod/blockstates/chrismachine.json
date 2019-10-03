@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "explode=true": { "model":"lotomod:chrismachine" },
+        "explode=false": { "model":"lotomod:chrismachine" },
+        "inventory": { "model":"lotomod:chrismachine" }
+    }
+}

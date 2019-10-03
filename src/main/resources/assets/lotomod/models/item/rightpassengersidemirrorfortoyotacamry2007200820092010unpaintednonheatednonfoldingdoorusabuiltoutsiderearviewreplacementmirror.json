@@ -1,0 +1,39 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "lotomod:item/rightpassengersidemirrorfortoyotacamry2007200820092010unpaintednonheatednonfoldingdoorusabuiltoutsiderearviewreplacementmirror",
+		"particle": "lotomod:item/rightpassengersidemirrorfortoyotacamry2007200820092010unpaintednonheatednonfoldingdoorusabuiltoutsiderearviewreplacementmirror"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [16, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [59.5, -71.25, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 110.75, 0],
+			"translation": [-2, 3.25, 0]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0]
+		},
+		"gui": {
+			"rotation": [0, 180, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -0.25]
+		}
+	}
+}

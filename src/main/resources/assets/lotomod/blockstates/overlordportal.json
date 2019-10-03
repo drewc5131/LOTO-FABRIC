@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "lotomod:overlordportal_ew"
+    },
+    "axis=x": {
+      "model": "lotomod:overlordportal_ns"
+    },
+    "inventory": {
+      "model": "lotomod:overlordportal_ns"
+    }
+  }
+}
